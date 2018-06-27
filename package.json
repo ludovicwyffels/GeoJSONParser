@@ -1,7 +1,7 @@
 {
   "name": "geojson-parser",
   "description": "Parse JSON to GeoJSON",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./geojson",
   "scripts": {
     "test": "mocha"
